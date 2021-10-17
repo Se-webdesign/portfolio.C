@@ -407,21 +407,28 @@ html {
   z-index: 1;
 }
 
-#main .contact .wrapper form input {
+#main .contact .wrapper form .input {
   width: 100%;
   margin-bottom: 1.5rem;
   font-size: 1.5rem;
 }
 
-#main .contact .wrapper form textarea {
+#main .contact .wrapper form .textarea {
   font-size: 1.5rem;
   width: 100%;
   margin-bottom: 1rem;
   height: 200px;
 }
 
+#main .contact .wrapper form p {
+  color: #c0c0c0;
+  border: 2px solid #333;
+  background: #fff;
+}
+
 #main .contact .wrapper form .done {
   width: 60%;
+  height: 50px;
 }
 
 #main .contact .wrapper #rain {
