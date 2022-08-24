@@ -196,9 +196,10 @@ html {
 
 #main .profile .wrapper ul li p {
   font-size: 1.5rem;
-  border: 1px solid #333;
-  padding: 0.2rem 0;
+  border-bottom: 1px solid #333;
+  padding: 0.4rem 0;
   padding-left: 1rem;
+  font-weight: normal;
 }
 
 #main .profile .wrapper img {
@@ -254,13 +255,13 @@ html {
 
 #main .content .wrapper .right .container {
   margin: 1rem;
-  padding: 1rem;
+  padding: 1.6rem;
   background: #fff;
   border-radius: 10%;
 }
 
 #main .content .wrapper .right .container span {
-  color: red;
+  color: #333;
 }
 
 #main .content .wrapper .right .t {
@@ -269,7 +270,7 @@ html {
 
 #main .content .wrapper .right .t p {
   margin-top: 1rem;
-  font-size: 2rem;
+  font-size: 1.6rem;
 }
 
 #main .content .wrapper .right .b {
@@ -277,14 +278,14 @@ html {
 }
 
 #main .content .wrapper .right .b h1 {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   color: #333;
   border-bottom: 2px solid #333;
 }
 
 #main .content .wrapper .right .b p {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 
 #main .content .wrapper .right .b p .br {
@@ -329,7 +330,8 @@ html {
 }
 
 #main .qa .wrapper ul li p {
-  font-size: 2rem;
+  font-size: 1.6rem;
+  font-weight: normal;
   width: auto;
 }
 
